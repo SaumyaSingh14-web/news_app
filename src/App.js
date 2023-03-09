@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <p className="text-center pt-3 text-3xl font-bold text-red-700 uppercase">
-        Latest News
+        <marquee>Latest News</marquee>
       </p>
       <NewsList />
     </div>
